@@ -1,4 +1,4 @@
-#Day two of 2023 Advent - Owen 
+#Day two part two of 2023 Advent - Owen 
 endResult = 0
 
 gameId = 0
